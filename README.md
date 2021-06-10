@@ -3,6 +3,10 @@
 
 # Hey, i'm Edmar Alencar!  👋😃
 
+ - Currently studying HTML, CSS, Sass, Bootstrap, JavaScript and React.
+ - All of my projects are available on edmaralencar.com.br.
+ - Tools: VSCode, Figma, Github and Git.
+
 <!--
 **edmaaralencar/edmaaralencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
