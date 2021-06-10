@@ -3,7 +3,7 @@
 
 # Hey, i'm Edmar Alencar!  👋😃
 
-I'm a web developmen student in love with technology.
+**I'm a web developmen student in love with technology.**
 
 - Currently studying HTML, CSS, Sass, Bootstrap, JavaScript and React.
 - All of my projects are available on edmaralencar.com.br.
