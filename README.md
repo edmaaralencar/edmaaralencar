@@ -9,8 +9,7 @@
 - All of my projects are available on edmaralencar.com.br.
 - Tools: VSCode, Figma, Github and Git.
 - Reach me: edmaaralencar1@gmail.com 
-
-
+</br> <br>
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
