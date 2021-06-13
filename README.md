@@ -5,8 +5,8 @@
 
 **I'm a web development student in love with technology.**
 
-- Currently studying HTML, CSS, Sass, Bootstrap, JavaScript and React.
-- All of my projects are available on edmaralencar.com.br.
+- Skills: HTML, CSS, Sass, Bootstrap and JavaScript.
+- Currently studying React.
 - Tools: VSCode, Figma, Github and Git.
 - Reach me: edmaaralencar1@gmail.com 
 </br> <br>
@@ -23,6 +23,9 @@
 
 <!--
 **edmaaralencar/edmaaralencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- All of my projects are available on edmaralencar.com.br.
+
 
 Here are some ideas to get you started:
 
