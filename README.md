@@ -6,7 +6,7 @@
 **I'm a web development student in love with technology.**
 
 - Skills: HTML, CSS, Sass, Bootstrap and JavaScript.
-- Currently studying React.
+- Currently improving my skills in JavaScript.
 - Tools: VSCode, Figma, Github and Git.
 - Reach me: edmaaralencar1@gmail.com 
 </br> <br>
